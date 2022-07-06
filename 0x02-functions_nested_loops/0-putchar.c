@@ -8,7 +8,8 @@
  *
  */
 
-int main(void) {
+int main(void)
+{
 	int n = 0;
 	char str_hbt[8] = "_putchar";
 
